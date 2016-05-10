@@ -1,9 +1,10 @@
 spring_mvc_base
 ===============
 
-Base project used for my Pluralsight Spring JPA and Spring Security courses among others.
+HI Bryan,
 
-http://pluralsight.com/training/Courses/TableOfContents/maven-fundamentals
+this project is based on top of yours, I added the support of WEB API,
 
-http://pluralsight.com/training/Courses/TableOfContents/springmvc-intro
+i WILL DELETED LATER.
 
+thank you very much for your support, I appreciated your support.
